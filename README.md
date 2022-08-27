@@ -1,0 +1,2 @@
+# computer_basic_note
+computer_basic_note
