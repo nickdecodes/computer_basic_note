@@ -1,2 +1,2 @@
-# computer_basic_note
-computer_basic_note
+# computer-basic-note
+computer-basic-note
